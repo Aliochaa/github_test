@@ -1,3 +1,3 @@
 # github_test
-Just a second test
+Just a test
 Deuxieme ligne, deuxieme commit
